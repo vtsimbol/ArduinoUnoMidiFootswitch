@@ -8,7 +8,7 @@ MIDI footswitch controller (10 push buttons) based on Arduino Uno with LCD1602 d
 - 4 diodes 1N4148
 - 10 2-pin SPST lock-free off(on) momentary push foot switch
 - Arduino Uno
-- LCD 1602A screen
+- LCD 1602A 16x2 screen
 - MIDI female jack
 
 ## Circuits
