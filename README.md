@@ -1,2 +1,2 @@
 # ArduinoUnoMidiFootswitch
-10 MIDI footswitch controller based on Arduino Uno with LCD1602 display and MIDI output
+MIDI footswitch controller (10 push buttons) based on Arduino Uno with LCD1602 display and MIDI output
